@@ -1,30 +1,29 @@
 
 # Site wide configuration
 
-title: RCL SiteBuilder
+title: Tom O'Connor
 locale: en_US
-logo: #logo.png # filename of a logo image that has been placed into your images directory
+logo: # logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: University of Rochester Libraries
+  name: Tom O'Connor
   avatar: #bio-photo.jpg
-  bio: An academic website builder based off of NCSU Libraries' "jekyll academic"
-  website: https://library.rochester.edu
-  email: rclfeedback@library.rochester.edu #personal email
-  twitter: RCLibraries
-  linkedin: #linkedin id
-  github: rochester-rcl
-  orcid: #orcid id
-  researchgate: #researchgate username 
-  mendeley: #mendeley username 
+  bio: Graduate Student at University of Rochester, Muscle Biology 
+  email: Thomas_OConnor@URMC.Rochester.edu
+  twitter: tomoc111
+  linkedin: Tom O'Connor
+  github: tomoc111
+  orcid: 0000-0001-6965-0704
+  researchgate: Thomas O'Connor 
+  mendeley: Thomas O'Connor 
   google:
     plus: #username
     analytics:
     verify:
     scholar: #google scholar 'user' id 
-  facebook: rivercampuslibraries
-  instagram: rclibraries
+  facebook: #username
+  instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
@@ -34,20 +33,20 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: RCLibraries
+  youtube: #username
   soundcloud: #username
   weibo: #username
   flickr: #username
   codepen: #username
   disqus-shortname: #username
-  resume: #link to a resume
+  resume: #link to pdf 
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#FFC70A' #UR gold
-lowlight-color: '#073661' #UR navy
+lowlight-color:  '#006d8f'
+highlight-color: '#b51a00'
 
-  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
+# NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
   cc-by: #yes
   cc-by-nc: #yes
